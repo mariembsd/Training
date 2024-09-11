@@ -47,12 +47,12 @@ Une application web intuitive conçue pour centraliser et gérer efficacement le
 1. **Clonez le dépôt :**
 
    ```bash
-   git clone https://github.com/Medamine-mzk/Training-RESTAPI
+   git clone https://github.com/mariembsd/Training
    ```
    
 2. **Accédez au répertoire du projet :**
    ```bash
-   cd Training-RESTAPI
+   cd Training
    ```
 3. **Configurez votre base de données :**
 
